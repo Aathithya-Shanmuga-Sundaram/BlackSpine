@@ -1,4 +1,8 @@
-# BlackSpine
+# BlackSpine — Incident Mapper Tool 
+
+[![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![Five Dependencies](https://img.shields.io/badge/Dependencies-5-green.svg)](https://www.python.org/)
+[![Cybersecurity Lab](https://img.shields.io/badge/%23MakeEveryoneCyberSafe-orange.svg)](https://github.com/Aathithya-Shanmuga-Sundaram)
 
 ## Overview
 
